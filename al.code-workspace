@@ -13,5 +13,10 @@
       "path": ".AL-Go"
     }
   ],
-  "settings": {}
+  "settings": {
+    "al.enableCodeAnalysis": true,
+    "al.codeAnalyzers": [
+      "${PerTenantExtensionCop}"
+    ]
+  }
 }
