@@ -1,7 +1,7 @@
 {
   "id": "33d636ef-05f8-406e-9fb8-ca350fc67cc1",
   "name": "AppB",
-  "publisher": "ChrisBlankDe",
+  "publisher": "ChrisBlankDöe",
   "version": "1.0.0.0",
   "brief": "",
   "description": "",
@@ -18,7 +18,6 @@
       "version": "1.0.0.0"
     }
   ],
-  "propagateDependencies": true,
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
