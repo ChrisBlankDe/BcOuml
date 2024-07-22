@@ -18,6 +18,7 @@
       "version": "1.0.0.0"
     }
   ],
+  "propagateDependencies": true,
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
